@@ -8,28 +8,8 @@
     "PnL": 554.2336860478954
   },
   {
-    "address": "0xa477abb3ea0976632bb426647779e8a93db9ca83",
-    "PnL": -43321.96520706882
-  },
-  {
-    "address": "0xbbe801b5381e1a4b16aa4e9a834eb171bfa0150f",
-    "PnL": -1689.4714148158787
-  },
-  {
-    "address": "0xafbf55b19cd477ba6c9bd65fcfdbf09296b3deb1",
-    "PnL": -1389.6909381294363
-  },
-  {
     "address": "0x3ac9275c6d83e2c0db733f7dd1dac2022113e4c2",
     "PnL": 122.42010963170821
-  },
-  {
-    "address": "0x19dde5f247155293fb8c905d4a400021c12fb6f0",
-    "PnL": -8651.622579012872
-  },
-  {
-    "address": "0xe75ed6f453c602bd696ce27af11565edc9b46b0d",
-    "PnL": 4714138353.77525
   },
   {
     "address": "0x9c993ce986b0ad91db939988f59f6d935b8df9d0",
@@ -52,32 +32,12 @@
     "PnL": 1822.879963699933
   },
   {
-    "address": "0xd8a0930a3a5e3a5322a4748ddba75b23c3b5a470",
-    "PnL": -13884.195553562022
-  },
-  {
-    "address": "0x005b7defa7951c6d66fc91b0b57a50f3a27f0f11",
-    "PnL": -294.8061060308755
-  },
-  {
-    "address": "0x883c524966e36d8b3ebb2a8cb64e082a819dfa24",
-    "PnL": -181.58157361178837
-  },
-  {
     "address": "0x8d98325ca4840fa45e4fdadd7fe0a1b31f654f99",
     "PnL": 173.85087969324127
   },
   {
     "address": "0xa492def0b52c41f331bb0c43d011a909e4358146",
     "PnL": 149.02591685602172
-  },
-  {
-    "address": "0x0e8e0bc185488ff2a1d2804fb80e2ae5b8e5b26b",
-    "PnL": 920644544.790051
-  },
-  {
-    "address": "0x30ec4f63e886b2f23bc0a47f54ad4a9ce3309d9e",
-    "PnL": -65.31146808541962
   },
   {
     "address": "0x14e0e8747bd128a532bb652efbf6bea597d48deb",
@@ -104,10 +64,6 @@
     "PnL": 41328.07303568465
   },
   {
-    "address": "0x253f570e7acff24b8cf751ab6be9cc41ad33bdda",
-    "PnL": 0
-  },
-  {
     "address": "0x4716351964d9695296494a157b3a6cc8e107d7dc",
     "PnL": 238.6273470114927
   },
@@ -118,18 +74,6 @@
   {
     "address": "0x242fe6e61470f2aaae99a366355030a48f0870b0",
     "PnL": 3741.5453823573953
-  },
-  {
-    "address": "0x0c8eb7a7a6509a3a19b04f317a4019e68810a4c6",
-    "PnL": -221.1158101069334
-  },
-  {
-    "address": "0x82e93455db09013d8b4070a6e29a4b51bfafa102",
-    "PnL": -6675.362907448039
-  },
-  {
-    "address": "0xf64fcaf32d6c9f88e3f71bf6e9a3bdd08420489f",
-    "PnL": -108.59812175031004
   },
   {
     "address": "0x18d999b0f1b71b31360d19a00befa2976abd166a",
